@@ -48,6 +48,13 @@ php artisan serve
 
 9. Open the application:
 
+## AI Usage Disclosure
+
+- **AI Tool:** ChatGPT
+- **Purpose:** Used for understanding the assignment document, resolving errors during development, and getting help with HTML/CSS.
+
 ```text
+
+
 http://127.0.0.1:8000
 ```
